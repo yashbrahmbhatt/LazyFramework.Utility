@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LazyFramework.Utility</id>
+    <version>2023.8.21-223832</version>
+    <authors>LazyFramework.Utility</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\bin\Debug\net6.0-windows7.0\LazyFramework.Utility.dll" target="lib\net6.0-windows7.0\LazyFramework.Utility.dll" />
+  </files>
+</package>

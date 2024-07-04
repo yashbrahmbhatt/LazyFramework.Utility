@@ -1,0 +1,12 @@
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\bin\Debug\net6.0-windows7.0\LazyFramework.Utility.deps.json
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\bin\Debug\net6.0-windows7.0\LazyFramework.Utility.dll
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\bin\Debug\net6.0-windows7.0\LazyFramework.Utility.pdb
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\obj\Debug\net6.0-windows7.0\LazyFramework.Utility.csproj.AssemblyReference.cache
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\obj\Debug\net6.0-windows7.0\LazyFramework.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\obj\Debug\net6.0-windows7.0\LazyFramework.Utility.AssemblyInfoInputs.cache
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\obj\Debug\net6.0-windows7.0\LazyFramework.Utility.AssemblyInfo.cs
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\obj\Debug\net6.0-windows7.0\LazyFramework.Utility.csproj.CoreCompileInputs.cache
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\obj\Debug\net6.0-windows7.0\LazyFramework.Utility.dll
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\obj\Debug\net6.0-windows7.0\refint\LazyFramework.Utility.dll
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\obj\Debug\net6.0-windows7.0\LazyFramework.Utility.pdb
+C:\Users\yash.brahmbhatt\Documents\UiPath\LazyFramework.Utility\obj\Debug\net6.0-windows7.0\ref\LazyFramework.Utility.dll
